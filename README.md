@@ -43,6 +43,8 @@ This file:
 .idea/pr-free-settings.xml
 ```
 
+📖 [How plugin settings are stored and ignored](https://github.com/itRunFenix/PR-FreeTracker-plugin/blob/master/Configuration.md))
+
 ---
 
 Feel free to reach out if you have any questions or feedback. We appreciate your contributions to improving PR-FreeTracker!
