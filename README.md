@@ -25,6 +25,23 @@ For more details and to install the plugin, visit the [JetBrains Marketplace](ht
 
 If you encounter any issues or need assistance, please refer to the [Troubleshooting.md](https://github.com/itRunFenix/PR-FreeTracker-plugin/blob/master/Troubleshooting.md) or open an issue on the [GitHub repository](https://github.com/itRunFenix/PR-FreeTracker-plugin/issues).
 
+---
+
+## ⚙️ Configuration Notes
+
+PR-FreeTracker stores your project-specific settings (such as the last used repository) in the following file:
+
+- `.idea/pr-free-settings.xml`
+
+This file:
+- is **local to your IDE project**,
+- **does not need to be shared** with collaborators,
+- can safely be excluded from version control.
+
+### 💡 Suggested `.gitignore` entry:
+```gitignore
+.idea/pr-free-settings.xml
+```
 
 ---
 
