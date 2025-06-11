@@ -7,6 +7,8 @@
 > **_Please note that any actions or decisions related to pull requests should be taken after reviewing the pull requests directly on GitHub._**
 > **_PR-FreeTracker is intended for informational purposes only and provides an overview of pull requests._**
 
+--- 
+
 ## Install the Plugin
 To get started with PR-FreeTracker, you need to install the plugin. Follow the steps below to install it:
 
@@ -16,6 +18,14 @@ To get started with PR-FreeTracker, you need to install the plugin. Follow the s
 4. **Install the Plugin**: Follow the prompts to install PR-FreeTracker.
 
 For more details and to install the plugin, visit the [JetBrains Marketplace](https://plugins.jetbrains.com/).
+
+
+### 📦 Latest Release
+
+You can also simly download the plugin manually from the latest GitHub release:  
+🔗 [PR-FreeTracker v1.0.0](https://github.com/itRunFenix/PR-FreeTracker-plugin/releases/tag/v1.0.0)
+
+---
 
 ## Getting Started
 
